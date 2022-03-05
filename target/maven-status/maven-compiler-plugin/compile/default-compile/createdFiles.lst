@@ -1,0 +1,4 @@
+reportsTest\ExReports.class
+pageObjectRepository\baseClass.class
+pageObjectRepository\LoginPage.class
+pageObjectRepository\LandingPage.class

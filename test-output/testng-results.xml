@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-05T16:06:22 IST" name="Default suite" finished-at="2022-03-05T16:07:56 IST" duration-ms="93816">
+    <groups>
+    </groups>
+    <test started-at="2022-03-05T16:06:22 IST" name="Default test" finished-at="2022-03-05T16:07:56 IST" duration-ms="93816">
+      <class name="maven.VerifyBillingandDeliveryAddress">
+        <test-method is-config="true" signature="getURL()[pri:0, instance:maven.VerifyBillingandDeliveryAddress@119020fb]" started-at="2022-03-05T16:06:22 IST" name="getURL" finished-at="2022-03-05T16:06:33 IST" duration-ms="10723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method signature="Login()[pri:0, instance:maven.VerifyBillingandDeliveryAddress@119020fb]" started-at="2022-03-05T16:06:33 IST" name="Login" finished-at="2022-03-05T16:07:06 IST" duration-ms="32854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="validateAccount()[pri:0, instance:maven.VerifyBillingandDeliveryAddress@119020fb]" started-at="2022-03-05T16:07:06 IST" name="validateAccount" finished-at="2022-03-05T16:07:34 IST" depends-on-methods="maven.VerifyBillingandDeliveryAddress.Login" duration-ms="27623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAccount -->
+        <test-method signature="addProducts()[pri:0, instance:maven.VerifyBillingandDeliveryAddress@119020fb]" started-at="2022-03-05T16:07:34 IST" name="addProducts" finished-at="2022-03-05T16:07:45 IST" depends-on-methods="maven.VerifyBillingandDeliveryAddress.validateAccount" duration-ms="11712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProducts -->
+        <test-method signature="validateDeliveryAddress()[pri:0, instance:maven.VerifyBillingandDeliveryAddress@119020fb]" started-at="2022-03-05T16:07:45 IST" name="validateDeliveryAddress" finished-at="2022-03-05T16:07:46 IST" depends-on-methods="maven.VerifyBillingandDeliveryAddress.addProducts" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDeliveryAddress -->
+        <test-method signature="validateBillingAddress()[pri:0, instance:maven.VerifyBillingandDeliveryAddress@119020fb]" started-at="2022-03-05T16:07:46 IST" name="validateBillingAddress" finished-at="2022-03-05T16:07:46 IST" depends-on-methods="maven.VerifyBillingandDeliveryAddress.validateDeliveryAddress" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBillingAddress -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:maven.VerifyBillingandDeliveryAddress@119020fb]" started-at="2022-03-05T16:07:46 IST" name="teardown" finished-at="2022-03-05T16:07:56 IST" duration-ms="10561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- maven.VerifyBillingandDeliveryAddress -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

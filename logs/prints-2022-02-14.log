@@ -1,0 +1,7 @@
+17:12:27.153 [main] INFO  pageObjectRepository.baseClass - Text validated
+17:12:28.572 [main] DEBUG pageObjectRepository.baseClass - Product added
+17:16:36.414 [main] INFO  pageObjectRepository.baseClass - Driver initialized
+17:16:36.538 [main] INFO  pageObjectRepository.baseClass - Window maximized
+17:16:46.908 [main] INFO  pageObjectRepository.baseClass - Landing page loaded
+17:16:47.307 [main] INFO  pageObjectRepository.baseClass - Homepage validated
+17:17:11.307 [main] INFO  pageObjectRepository.baseClass - Text validated

@@ -1,0 +1,7 @@
+15:09:25.998 [main] DEBUG pageObjectRepository.baseClass - Username matched
+15:21:01.933 [main] INFO  pageObjectRepository.baseClass - Driver initialized
+15:21:04.368 [main] INFO  pageObjectRepository.baseClass - Window maximized
+15:21:20.253 [main] INFO  pageObjectRepository.baseClass - Landing page loaded
+15:21:20.376 [main] INFO  pageObjectRepository.baseClass - Homepage validated
+15:21:22.916 [main] INFO  pageObjectRepository.baseClass - Text validated
+15:21:40.309 [main] DEBUG pageObjectRepository.baseClass - Username matched

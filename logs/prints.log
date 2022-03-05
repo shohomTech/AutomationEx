@@ -1,0 +1,5 @@
+16:07:24.274 [main] INFO  pageObjectRepository.baseClass - Username matched
+16:07:37.919 [main] INFO  pageObjectRepository.baseClass - Text validated
+16:07:42.033 [main] DEBUG pageObjectRepository.baseClass - Products added
+16:07:46.032 [main] INFO  pageObjectRepository.baseClass - Assertion successful
+16:07:46.145 [main] INFO  pageObjectRepository.baseClass - Assertion successful

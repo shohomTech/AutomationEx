@@ -1,0 +1,7 @@
+21:17:31.524 [main] INFO  pageObjectRepository.baseClass - Window maximized
+21:17:47.009 [main] INFO  pageObjectRepository.baseClass - Landing page loaded
+21:17:47.239 [main] INFO  pageObjectRepository.baseClass - Homepage validated
+21:17:51.588 [main] INFO  pageObjectRepository.baseClass - Text validated
+21:18:04.261 [main] DEBUG pageObjectRepository.baseClass - SignIn successfull
+21:18:04.570 [main] INFO  pageObjectRepository.baseClass - Text validated
+21:18:15.140 [main] DEBUG pageObjectRepository.baseClass - All information entered successfully

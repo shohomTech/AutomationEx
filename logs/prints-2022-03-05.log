@@ -1,0 +1,7 @@
+16:06:54.655 [main] INFO  pageObjectRepository.baseClass - Landing page loaded
+16:06:54.991 [main] INFO  pageObjectRepository.baseClass - Homepage validated
+16:06:57.510 [main] INFO  pageObjectRepository.baseClass - Text validated
+16:07:06.509 [main] DEBUG pageObjectRepository.baseClass - SignIn successfull
+16:07:06.733 [main] INFO  pageObjectRepository.baseClass - Text validated
+16:07:11.444 [main] DEBUG pageObjectRepository.baseClass - All information entered successfully
+16:07:14.439 [main] INFO  pageObjectRepository.baseClass - Account created

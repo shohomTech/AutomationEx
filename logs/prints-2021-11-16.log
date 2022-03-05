@@ -1,0 +1,7 @@
+15:08:25.372 [main] ERROR pageObjectRepository.baseClass - Text matched
+15:10:06.965 [main] INFO  pageObjectRepository.baseClass - Driver initialized
+15:10:07.386 [main] INFO  pageObjectRepository.baseClass - Window maximized
+15:10:28.807 [main] INFO  pageObjectRepository.baseClass - Landing page loaded
+15:10:38.184 [main] ERROR pageObjectRepository.baseClass - Text matched
+15:11:03.744 [main] INFO  pageObjectRepository.baseClass - Driver initialized
+15:11:03.750 [main] INFO  pageObjectRepository.baseClass - Window maximized

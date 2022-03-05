@@ -1,0 +1,7 @@
+14:06:58.224 [main] INFO  pageObjectRepository.baseClass - Account created
+14:07:16.698 [main] INFO  pageObjectRepository.baseClass - All details entered successfully
+14:07:44.412 [main] INFO  pageObjectRepository.baseClass - Driver initialized
+14:07:44.534 [main] INFO  pageObjectRepository.baseClass - Window maximized
+14:07:50.744 [main] INFO  pageObjectRepository.baseClass - Landing page loaded
+14:07:50.746 [main] INFO  pageObjectRepository.baseClass - Homepage validated
+14:07:52.824 [main] INFO  pageObjectRepository.baseClass - Text validated

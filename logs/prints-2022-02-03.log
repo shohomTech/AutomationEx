@@ -1,0 +1,7 @@
+16:52:55.968 [main] INFO  pageObjectRepository.baseClass - Text validated
+16:53:05.729 [main] DEBUG pageObjectRepository.baseClass - SignIn successfull
+17:01:36.883 [main] INFO  pageObjectRepository.baseClass - Driver initialized
+17:01:37.331 [main] INFO  pageObjectRepository.baseClass - Window maximized
+17:02:48.430 [main] INFO  pageObjectRepository.baseClass - Driver initialized
+17:02:48.554 [main] INFO  pageObjectRepository.baseClass - Window maximized
+17:03:29.529 [main] INFO  pageObjectRepository.baseClass - Landing page loaded

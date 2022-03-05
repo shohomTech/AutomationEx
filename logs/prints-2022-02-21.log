@@ -1,0 +1,7 @@
+15:34:04.309 [main] INFO  pageObjectRepository.baseClass - Homepage validated
+15:34:17.616 [main] INFO  pageObjectRepository.baseClass - Text validated
+15:34:30.171 [main] DEBUG pageObjectRepository.baseClass - Product added
+15:34:34.541 [main] DEBUG pageObjectRepository.baseClass - Cart Page opened
+15:34:36.813 [main] DEBUG pageObjectRepository.baseClass - login page opened
+15:34:36.813 [main] INFO  pageObjectRepository.baseClass - Text validated
+15:34:42.353 [main] DEBUG pageObjectRepository.baseClass - A/c creation page opened

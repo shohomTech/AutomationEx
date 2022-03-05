@@ -1,0 +1,7 @@
+13:47:41.819 [main] INFO  pageObjectRepository.baseClass - Homepage validated
+13:47:45.292 [main] DEBUG pageObjectRepository.baseClass - Women Category list is visible
+13:47:51.781 [main] DEBUG pageObjectRepository.baseClass - Category page opened
+13:47:54.968 [main] DEBUG pageObjectRepository.baseClass - Men Category list is visible
+13:47:55.359 [main] DEBUG pageObjectRepository.baseClass - Category page opened
+13:51:55.278 [main] INFO  pageObjectRepository.baseClass - Driver initialized
+13:52:01.008 [main] INFO  pageObjectRepository.baseClass - Window maximized

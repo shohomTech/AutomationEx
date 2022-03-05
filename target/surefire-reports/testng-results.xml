@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-03T14:05:22 IST" name="Suite" finished-at="2022-03-03T14:08:05 IST" duration-ms="162631">
+    <groups>
+    </groups>
+    <test started-at="2022-03-03T14:05:22 IST" name="Test1" finished-at="2022-03-03T14:07:36 IST" duration-ms="133776">
+      <class name="maven.DownloadInvoice">
+        <test-method is-config="true" signature="getURL()[pri:0, instance:maven.DownloadInvoice@2d10e0b1]" started-at="2022-03-03T14:05:22 IST" name="getURL" finished-at="2022-03-03T14:06:06 IST" duration-ms="43890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method signature="launchPage()[pri:0, instance:maven.DownloadInvoice@2d10e0b1]" started-at="2022-03-03T14:06:06 IST" name="launchPage" finished-at="2022-03-03T14:06:40 IST" duration-ms="33657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchPage -->
+        <test-method signature="validateQuantity()[pri:0, instance:maven.DownloadInvoice@2d10e0b1]" started-at="2022-03-03T14:06:40 IST" name="validateQuantity" finished-at="2022-03-03T14:06:49 IST" depends-on-methods="maven.DownloadInvoice.launchPage" duration-ms="8820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateQuantity -->
+        <test-method signature="accountCreation()[pri:0, instance:maven.DownloadInvoice@2d10e0b1]" started-at="2022-03-03T14:06:49 IST" name="accountCreation" finished-at="2022-03-03T14:07:08 IST" depends-on-methods="maven.DownloadInvoice.validateQuantity" duration-ms="19116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountCreation -->
+        <test-method signature="CheckOutandDownloadInvoice()[pri:0, instance:maven.DownloadInvoice@2d10e0b1]" started-at="2022-03-03T14:07:08 IST" name="CheckOutandDownloadInvoice" finished-at="2022-03-03T14:07:34 IST" depends-on-methods="maven.DownloadInvoice.accountCreation" duration-ms="26032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckOutandDownloadInvoice -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:maven.DownloadInvoice@2d10e0b1]" started-at="2022-03-03T14:07:34 IST" name="teardown" finished-at="2022-03-03T14:07:36 IST" duration-ms="2164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- maven.DownloadInvoice -->
+    </test> <!-- Test1 -->
+    <test started-at="2022-03-03T14:07:38 IST" name="Test2" finished-at="2022-03-03T14:08:05 IST" duration-ms="26951">
+      <class name="maven.ScrollUpandDownPage">
+        <test-method is-config="true" signature="getURL()[pri:0, instance:maven.ScrollUpandDownPage@5ab14cb9]" started-at="2022-03-03T14:07:38 IST" name="getURL" finished-at="2022-03-03T14:07:44 IST" duration-ms="6245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method signature="scrollDown()[pri:0, instance:maven.ScrollUpandDownPage@5ab14cb9]" started-at="2022-03-03T14:07:44 IST" name="scrollDown" finished-at="2022-03-03T14:07:52 IST" duration-ms="8370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollDown -->
+        <test-method signature="scrollUp()[pri:0, instance:maven.ScrollUpandDownPage@5ab14cb9]" started-at="2022-03-03T14:07:52 IST" name="scrollUp" finished-at="2022-03-03T14:08:04 IST" duration-ms="11858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollUp -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:maven.ScrollUpandDownPage@5ab14cb9]" started-at="2022-03-03T14:08:04 IST" name="teardown" finished-at="2022-03-03T14:08:05 IST" duration-ms="476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- maven.ScrollUpandDownPage -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

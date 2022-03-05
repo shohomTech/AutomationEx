@@ -1,0 +1,7 @@
+13:53:00.533 [main] INFO  pageObjectRepository.baseClass - Landing page loaded
+13:53:02.428 [main] INFO  pageObjectRepository.baseClass - Homepage validated
+13:55:25.903 [main] INFO  pageObjectRepository.baseClass - Driver initialized
+13:55:26.332 [main] INFO  pageObjectRepository.baseClass - Window maximized
+13:59:58.118 [main] INFO  pageObjectRepository.baseClass - Driver initialized
+13:59:58.325 [main] INFO  pageObjectRepository.baseClass - Window maximized
+14:00:27.340 [main] INFO  pageObjectRepository.baseClass - Landing page loaded

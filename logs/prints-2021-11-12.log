@@ -1,0 +1,7 @@
+12:47:04.146 [main] INFO  pageObjectRepository.baseClass - Landing page loaded
+12:47:13.918 [main] DEBUG pageObjectRepository.baseClass - Sign in successfull
+12:47:18.659 [main] ERROR pageObjectRepository.baseClass - Wrong Username & Password
+16:03:29.251 [main] INFO  pageObjectRepository.baseClass - Driver initialized
+16:03:32.367 [main] INFO  pageObjectRepository.baseClass - Window maximized
+16:04:49.798 [main] INFO  pageObjectRepository.baseClass - Landing page loaded
+16:04:59.825 [main] INFO  pageObjectRepository.baseClass - Driver initialized
